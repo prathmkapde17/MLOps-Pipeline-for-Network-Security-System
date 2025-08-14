@@ -1,4 +1,4 @@
-# MLOps Pipeline for Network Security System
+# MLOps Pipeline for Phishing URL Detection
 
 ## Overview
 This repository contains a production-ready MLOps pipeline designed for network security. The system focuses on detecting and classifying malicious URLs using machine learning, ensuring safe network traffic. The pipeline includes data ingestion, preprocessing, model training, deployment, and monitoring.
